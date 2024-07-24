@@ -1,0 +1,12 @@
+body {
+  margin: 20px;
+  overflow: hidden;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('https://img.freepik.com/premium-photo/blue-sky-with-clouds-sun-background-hd-8k-wallpaper-stock-photographic-image_949228-19036.jpg');
+  /* background: linear-gradient(rgb(130, 171, 219),rgb(142, 58, 181)); */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Ensure full viewport height coverage */
+  color: #ffffff; /* Set text color to white for better visibility */
+}
